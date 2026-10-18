@@ -2,6 +2,8 @@ version: 2
 updates:
   - package-ecosystem: "nuget"
     directory: "/"
+    assignees:
+      - "lyndychivs"
     schedule:
       interval: "weekly"
       day: "sunday"
